@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Western" tvg-name="El bueno, el malo y el feo" tvg-logo="", El bueno, el malo y el feo
+https://archive.org/download/elbueno/elbueno.mp4
+
+#EXTINF:-1 group-title="Western" tvg-name="Django" tvg-logo="", Django
+https://archive.org/download/django1966/Django-1966.mp4
+
+#EXTINF:-1 group-title="Western" tvg-name="Por un puñado de dólares" tvg-logo="", Por un puñado de dólares
+https://archive.org/download/porunpunado/puñado.mp4
